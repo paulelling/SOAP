@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="type.xsl" type="text/xsl" ?>
+
+<EMAIL>
+  <TITLE>Create e-mail</TITLE>
+  <FROM>From:</FROM>
+  <TO>To:</TO>
+  <SUBJECT>Subject:</SUBJECT>
+  <MESSAGE>Message:</MESSAGE>
+  <ATTACHMENT>Attachment:</ATTACHMENT>
+</EMAIL>
+
